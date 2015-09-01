@@ -9,7 +9,6 @@ body {
 }
 .header {
     height: 72px;
-    background-color: #2b2b2b;
 }
 .header h1 {
     margin-top: 0;
@@ -21,11 +20,11 @@ h1 {
     margin: 0 auto;
     padding: 0 15px;
 }
-h1 img { margin: 23px auto; width: 213px; }
+h1 img { margin: 23px auto; width: 137px; }
 h2 {
     font: italic 35px Georgia, "Times New Roman", Arial, sans-serif;
 }
-#wrapper { 
+#wrapper {
     min-height: 100%;
     height: auto !important;
     height: 100%;
@@ -55,5 +54,3 @@ a:visited,
 a:hover,
 a:active { color: #f74902; text-decoration: underline; }
 a:hover { text-decoration: none; }
-
-
